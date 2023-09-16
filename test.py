@@ -1,2 +1,2 @@
-print("yamen")
-print("muammar")
+print("Yamen Muammar")
+
