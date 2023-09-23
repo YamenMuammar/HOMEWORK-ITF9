@@ -28,7 +28,7 @@ print("----------------- part 2 -----------------")
 print("""If You Want to Calculate rectangle area type >> 1 <
 If You Want to Calculate circle area type >> 2 <
 If You Want to Calculate triangle area type >> 3 <
--If not type >> 0 <""")
+If not type >> 0 <""")
 N = int(input())
 if N == 1:
     L = int(input("Enter the length :"))
